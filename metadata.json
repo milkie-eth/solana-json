@@ -1,0 +1,22 @@
+{
+  "name": "Gangster",
+  "symbol": "UZI",
+  "description": "Gangster $UZI is a utility token for the Gangster ecosystem, offering exclusive access and benefits to its holders.",
+  "seller_fee_basis_points": 500,
+  "image": "https://example.com/path/to/your/image.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/path/to/your/image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2NVJoLzS2M3axSdo6Z3CcRwVdP5RebcA7CKP35zaTavX",
+        "share": 0
+      }
+    ]
+  }
+}
